@@ -11,13 +11,12 @@ Welcome to the official GitHub repository for Stratos, an innovative iOS app des
 - [VI - Contact](#vi---contact-)
 
 ## I - Introduction 🌟
-Stratos is tailored for pilots and aviation enthusiasts to explore new airports to fly to, log flight tracks, assess their flying performance, and connect with aviators locally and around the world. This repo provides insights into the app's creation, featuring our approaches to coding, design, and functionality.
+Stratos is a mobile app designed to allow pilots and aviation enthusists alike, to explore new airports to fly to, log flight tracks, assess their flying performance, and connect with aviators locally and around the world. This repository provides insights into the app's creation, featuring our approaches to coding, design, and functionality.
 
 ## II - Tech Stack 💻
 
-The Stratos app combines modern software engineering practices and cutting-edge technologies to deliver a robust and efficient application for general aviation enthusiasts. Below is an overview of the technology stack used in developing Stratos:
-
-### Frontend
+Stratos combines modern software engineering practices and cutting-edge technologies to deliver a robust and efficient application for general aviation enthusiasts. Below is an overview of the technology stack used in developing Stratos:
+### i - Frontend
   #### Mobile Application
   - **SwiftUI & UIKit**: Primarily built with SwiftUI (95%) for its modern, declarative syntax that simplifies UI development, complemented by UIKit (5%) for specific UI components not yet fully available in SwiftUI.
   - **External Dependencies via SPM**:
@@ -36,42 +35,39 @@ The Stratos app combines modern software engineering practices and cutting-edge 
   - **SafariServices**: Used to integrate web content securely within the app.
   - **TipKit**: Assists in generating tipping content, specific scenarios, and local advice.
 
-### Backend Services
-- **Firebase & Google Cloud Platform (GCP)**: Serve as the backbone for the app's server-side operations including data storage, server functions, and hosting.
+### ii - Backend
+- **Firebase & Google Cloud Platform (GCP)**: Serves as the backbone for the app's server-side operations including data storage, server functions, backups, API security and hosting.
 - **TypeScript Cloud Functions**: Extensively used for writing scalable and efficient server-side logic hosted on GCP, enhancing backend functionality and security.
 
-### Data Engineering and Machine Learning
+### iii - Data Engineering and Machine Learning
 - **Python**: The primary language used for all data engineering and machine learning tasks, enabling sophisticated data analysis and the development of recommendation systems.
   - **Pandas** and **NumPy**: For data manipulation and numerical operations.
   - **SciPy** and **Scikit-Learn**: Employed for advanced data analysis and machine learning tasks.
   - **TensorFlow**: Used for developing and training deep learning models.
   - **PyTorch**: Also employed for building and training advanced neural network models.
  
-### Messaging & Security
+### iv - Messaging & Security
 - **Native Messaging**: Built from the ground up, our messaging feature is fully native and supports end-to-end encryption with 2048-bit keys, ensuring private and secure communication among users.
 - **Secure Data Handling with GCP**: Utilizing Google Cloud Platform's robust security features, Stratos ensures that all user data, including flight logs, photos, and personal information, is stored securely. GCP's encryption mechanisms automatically encrypt all data before it is written to disk with no additional action required from the user, providing strong protection against data breaches.
 - **Compliance and Data Integrity**: GCP compliance certifications ensure that Stratos meets rigorous privacy and security standards required for aviation and data protection regulations. This includes continuous monitoring and automatic updates to respond to potential security threats efficiently.
 
-### Performance Monitoring and User Feedback
+### v - Performance Monitoring and User Feedback
 - **Google Analytics**: Monitors user engagement and app performance to gather insights that help improve user experience.
+- **Firebase Crashlytics**: Provides real-time monitoring and reporting of app crashes to swiftly identify, prioritize, and resolve stability issues, ensuring a smoother user experience.
 - **User Feedback**: Currently collected via email surveys to understand user satisfaction and collect suggestions directly from users.
 
-## Planning and Managing Work
+## vi - Planning and Managing Work
+- **Feature Prioritization**: Uses a dynamic framework, assessing user feedback, market trends, and feasibility to guide feature selection aligned with user needs.
+- **Agile Development Practices**: Employs agile methodologies like sprint planning and stand-ups to enhance flexibility and continual adaptation in our development process.
+- **Cost-Benefit Analysis**: Performs cost-benefit analyses to efficiently allocate resources and prioritize high-impact features.
+- **Roadmap Development**: Keeps a clear, regularly updated product roadmap that communicates planned features and timelines to stakeholders.
 
-- **Feature Planning**: Managed through a prioritized list of features alongside a cost-benefit analysis for each, ensuring effective resource allocation and strategic development.
-
-## Maintainability and Version Control
-
-- **Code Organization**: The codebase is neatly organized, lean, and well-documented. It is meticulously refactored and segmented into appropriate files and folders.
-- **Version Control**: Managed through GitHub, providing robust tools for source code management and collaborative development.
-
----
-
+## vii - Maintainability and Version Control
+- **Robust Code Management**: Adheres to industry best practices, with well-documented, logically structured, and regularly refactored code ensuring scalability and ease of maintenance.
+- **Advanced Version Control with GitHub**: Utilizes GitHub for robust version control, enhancing team collaboration through effective branch management and seamless CI/CD pipeline integration.
 
 ## III - Features 🛠️
-
-### Explore Airports and Nearby Activities 🌍
-
+### i - Explore Airports and Nearby Activities 🌍
 - **Intelligent Map**: Explore airports globally with our advanced map feature, designed to help you plan your next adventure efficiently.
   - ![Intelligent Map Screenshot](path/to/intelligent_map_screenshot.jpg)
   
@@ -81,8 +77,7 @@ The Stratos app combines modern software engineering practices and cutting-edge 
 - **Favorites and History Visualization**: Visualize your frequented and favorite airports, sparking ideas for your next flights.
   - ![Favorites Visualization Screenshot](path/to/favorites_visualization_screenshot.jpg)
 
-### Flight Tracking and Performance Analysis ✈️
-
+### ii - Flight Tracking and Performance Analysis ✈️
 - **Precision Flight Logging**: Utilize your plane’s transponder data to log flights with unmatched accuracy.
   - ![Precision Flight Logging Screenshot](path/to/precision_flight_logging_screenshot.jpg)
   
@@ -98,8 +93,7 @@ The Stratos app combines modern software engineering practices and cutting-edge 
 - **Historical Flight Logs**: Access comprehensive views of your flying history since 2011.
   - ![Historical Flight Logs Screenshot](path/to/historical_flight_logs_screenshot.jpg)
 
-### Social Networking for Aviators 🌐
-
+### iii - Social Networking for Aviators 🌐
 - **Global Connections**: Make connections with pilots and aviation enthusiasts worldwide.
   - ![Global Connections Screenshot](path/to/global_connections_screenshot.jpg)
   
@@ -113,7 +107,6 @@ The Stratos app combines modern software engineering practices and cutting-edge 
 ## IV - Code Samples 📝
 
 Stratos source code is proprietary but you can find code samples of the app here: 
-
 - [Swift Code Samples](/Code/Swift/)
 - [Python Code Samples](/Code/Python/)
 - [TypeScript Code Samples](/Code/TypeScript/)
