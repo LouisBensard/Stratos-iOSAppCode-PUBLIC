@@ -1,21 +1,19 @@
 # Stratos: The Future of General Aviation 🚀
 
-Welcome to the official GitHub repository for Stratos, an innovative iOS app designed for general aviation enthusiasts. This repository is a resource hub showcasing our development practices, sample Swift and Python code, and the frameworks we use. Dive into our demos and explore the architecture and technology behind Stratos.
+Welcome to the official GitHub repository for Stratos, an innovative iOS app designed for general aviation enthusiasts. This repository is a resource hub showcasing our development practices, sample code, and the frameworks we use. Dive into our demos and explore the architecture and technology behind Stratos.
 
 ## Table of Contents 📚
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Code Samples](#code-samples)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [I - Introduction](#i---introduction-)
+- [II - Tech Stack](#ii---tech-stack-)
+- [III - Features](#iii---features-)
+- [IV - Code Samples](#iv---code-samples-)
+- [V - Contributing](#v---contributing-)
+- [VI - Contact](#vi---contact-)
 
-## Introduction 🌟
+## I - Introduction 🌟
 Stratos is tailored for pilots and aviation enthusiasts to explore new airports to fly to, log flight tracks, assess their flying performance, and connect with aviators locally and around the world. This repo provides insights into the app's creation, featuring our approaches to coding, design, and functionality.
 
-## Tech Stack 💻
+## II - Tech Stack 💻
 
 The Stratos app combines modern software engineering practices and cutting-edge technologies to deliver a robust and efficient application for general aviation enthusiasts. Below is an overview of the technology stack used in developing Stratos:
 
@@ -50,12 +48,11 @@ The Stratos app combines modern software engineering practices and cutting-edge 
   - **PyTorch**: Also employed for building and training advanced neural network models.
  
 ### Messaging & Security
-
 - **Native Messaging**: Built from the ground up, our messaging feature is fully native and supports end-to-end encryption with 2048-bit keys, ensuring private and secure communication among users.
 - **Secure Data Handling with GCP**: Utilizing Google Cloud Platform's robust security features, Stratos ensures that all user data, including flight logs, photos, and personal information, is stored securely. GCP's encryption mechanisms automatically encrypt all data before it is written to disk with no additional action required from the user, providing strong protection against data breaches.
 - **Compliance and Data Integrity**: GCP compliance certifications ensure that Stratos meets rigorous privacy and security standards required for aviation and data protection regulations. This includes continuous monitoring and automatic updates to respond to potential security threats efficiently.
 
-## Performance Monitoring and User Feedback
+### Performance Monitoring and User Feedback
 - **Google Analytics**: Monitors user engagement and app performance to gather insights that help improve user experience.
 - **User Feedback**: Currently collected via email surveys to understand user satisfaction and collect suggestions directly from users.
 
@@ -71,7 +68,7 @@ The Stratos app combines modern software engineering practices and cutting-edge 
 ---
 
 
-## Features 🛠️
+## III - Features 🛠️
 
 ### Explore Airports and Nearby Activities 🌍
 
@@ -113,7 +110,7 @@ The Stratos app combines modern software engineering practices and cutting-edge 
   - ![Secure Communication Screenshot](path/to/secure_communication_screenshot.jpg)
 
 
-## Code Samples 📝
+## IV - Code Samples 📝
 
 Stratos source code is proprietary but you can find code samples of the app here: 
 
@@ -121,11 +118,11 @@ Stratos source code is proprietary but you can find code samples of the app here
 - [Python Code Samples](/Code/Python/)
 - [TypeScript Code Samples](/Code/TypeScript/)
 
-## Contributing 🤝
+## V - Contributing 🤝
 
 We welcome contributions to the Stratos project. Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Contact 📬
+## VI - Contact 📬
 For more information on this project, please reach out at [contact@stratos-fly.com](mailto:contact@stratos-fly.com).
 
 Project Link: [https://github.com/LouisBensard/Stratos-iOSAppCode-Swift-PUBLIC.git](https://github.com/LouisBensard/Stratos-iOSAppCode-Swift-PUBLIC.git)
