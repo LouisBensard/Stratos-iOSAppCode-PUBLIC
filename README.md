@@ -7,8 +7,7 @@ Welcome to the official GitHub repository for Stratos, an innovative iOS app des
 - [II - Tech Stack](#ii---tech-stack-)
 - [III - Features](#iii---features-)
 - [IV - Code Samples](#iv---code-samples-)
-- [V - Contributing](#v---contributing-)
-- [VI - Contact](#vi---contact-)
+- [V - Contact](#vi---contact-)
 
 ## I - Introduction 🌟
 Stratos is a mobile app designed to allow pilots and aviation enthusists alike, to explore new airports to fly to, log flight tracks, assess their flying performance, and connect with aviators locally and around the world. This repository provides insights into the app's creation, featuring our approaches to coding, design, and functionality.
@@ -17,7 +16,6 @@ Stratos is a mobile app designed to allow pilots and aviation enthusists alike, 
 
 Stratos combines modern software engineering practices and cutting-edge technologies to deliver a robust and efficient application for general aviation enthusiasts. Below is an overview of the technology stack used in developing Stratos:
 ### i - Frontend
-  #### Mobile Application
   - **SwiftUI & UIKit**: Primarily built with SwiftUI (95%) for its modern, declarative syntax that simplifies UI development, complemented by UIKit (5%) for specific UI components not yet fully available in SwiftUI.
   - **External Dependencies via SPM**:
     - **Firebase**: Utilized for backend services, real-time database, and user authentication.
@@ -25,15 +23,15 @@ Stratos combines modern software engineering practices and cutting-edge technolo
     - **RevenueCat**: Manages in-app subscriptions and purchasing processes.
     - **GoogleSignIn**: Provides authentication services linked to Google accounts.
   
-  #### Apple Frameworks
-  - **MapKit**: Integrates map functionality to display and interact with geographical data.
-  - **Swift Charts**: Used for creating custom interactive charts and data visualizations.
-  - **CryptoKit**: Handles cryptographic operations, supporting the app’s end-to-end encryption feature.
-  - **Security**: Ensures secure storage of sensitive user data.
-  - **CoreData**: Manages the app’s data model and local storage.
-  - **CoreLocation**: Provides location data services to enable geo-specific features.
-  - **SafariServices**: Used to integrate web content securely within the app.
-  - **TipKit**: Assists in generating tipping content, specific scenarios, and local advice.
+  - **Apple Frameworks**:
+    - **MapKit**: Integrates map functionality to display and interact with geographical data.
+    - **Swift Charts**: Used for creating custom interactive charts and data visualizations.
+    - **CryptoKit**: Handles cryptographic operations, supporting the app’s end-to-end encryption feature.
+    - **Security**: Ensures secure storage of sensitive user data.
+    - **CoreData**: Manages the app’s data model and local storage.
+    - **CoreLocation**: Provides location data services to enable geo-specific features.
+    - **SafariServices**: Used to integrate web content securely within the app.
+    - **TipKit**: Assists in generating tipping content, specific scenarios, and local advice.
 
 ### ii - Backend
 - **Firebase & Google Cloud Platform (GCP)**: Serves as the backbone for the app's server-side operations including data storage, server functions, backups, API security and hosting.
@@ -56,52 +54,68 @@ Stratos combines modern software engineering practices and cutting-edge technolo
 - **Firebase Crashlytics**: Provides real-time monitoring and reporting of app crashes to swiftly identify, prioritize, and resolve stability issues, ensuring a smoother user experience.
 - **User Feedback**: Currently collected via email surveys to understand user satisfaction and collect suggestions directly from users.
 
-## vi - Planning and Managing Work
+### vi - Planning and Managing Work
 - **Feature Prioritization**: Uses a dynamic framework, assessing user feedback, market trends, and feasibility to guide feature selection aligned with user needs.
 - **Agile Development Practices**: Employs agile methodologies like sprint planning and stand-ups to enhance flexibility and continual adaptation in our development process.
 - **Cost-Benefit Analysis**: Performs cost-benefit analyses to efficiently allocate resources and prioritize high-impact features.
 - **Roadmap Development**: Keeps a clear, regularly updated product roadmap that communicates planned features and timelines to stakeholders.
 
-## vii - Maintainability and Version Control
+### vii - Maintainability and Version Control
 - **Robust Code Management**: Adheres to industry best practices, with well-documented, logically structured, and regularly refactored code ensuring scalability and ease of maintenance.
 - **Advanced Version Control with GitHub**: Utilizes GitHub for robust version control, enhancing team collaboration through effective branch management and seamless CI/CD pipeline integration.
 
 ## III - Features 🛠️
 ### i - Explore Airports and Nearby Activities 🌍
 - **Intelligent Map**: Explore airports globally with our advanced map feature, designed to help you plan your next adventure efficiently.
-  - ![Intelligent Map Screenshot](path/to/intelligent_map_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
   
 - **Airport Filters**: Find airports by amenities like Restaurants, Museums, Parks, and Beaches, making it easier to plan your visits.
-  - ![Airport Filters Screenshot](path/to/airport_filters_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
   
 - **Favorites and History Visualization**: Visualize your frequented and favorite airports, sparking ideas for your next flights.
-  - ![Favorites Visualization Screenshot](path/to/favorites_visualization_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
 
 ### ii - Flight Tracking and Performance Analysis ✈️
 - **Precision Flight Logging**: Utilize your plane’s transponder data to log flights with unmatched accuracy.
-  - ![Precision Flight Logging Screenshot](path/to/precision_flight_logging_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
   
 - **Post-Flight Track Finder**: Focus on your flight experience without hassle; log your flights post-flight.
-  - ![Post-Flight Track Finder Screenshot](path/to/post_flight_track_finder_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
   
 - **Flight Debriefs and Journals**: Turn every flight into a learning opportunity with detailed debriefs and journals.
-  - ![Flight Debriefs Screenshot](path/to/flight_debriefs_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
   
 - **Performance Analytics**: Monitor your flying improvement over time with our advanced analytics tools.
-  - ![Performance Analytics Screenshot](path/to/performance_analytics_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
   
 - **Historical Flight Logs**: Access comprehensive views of your flying history since 2011.
-  - ![Historical Flight Logs Screenshot](path/to/historical_flight_logs_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
 
-### iii - Social Networking for Aviators 🌐
+### iii - Performance Analysis 📊 
+- **Precision Flight Logging**: Utilize your plane’s transponder data to log flights with unmatched accuracy.
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
+  
+- **Post-Flight Track Finder**: Focus on your flight experience without hassle; log your flights post-flight.
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
+  
+- **Flight Debriefs and Journals**: Turn every flight into a learning opportunity with detailed debriefs and journals.
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
+  
+- **Performance Analytics**: Monitor your flying improvement over time with our advanced analytics tools.
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
+  
+- **Historical Flight Logs**: Access comprehensive views of your flying history since 2011.
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
+
+### iv - Social Community Platform for Aviators 🌐
 - **Global Connections**: Make connections with pilots and aviation enthusiasts worldwide.
-  - ![Global Connections Screenshot](path/to/global_connections_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
   
 - **Local Meetups**: Discover and connect with pilots in your area to enhance your local aviation community.
-  - ![Local Meetups Screenshot](path/to/local_meetups_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
   
 - **Secure Communication**: Enjoy secure, private communications with end-to-end encrypted chat.
-  - ![Secure Communication Screenshot](path/to/secure_communication_screenshot.jpg)
+  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
 
 
 ## IV - Code Samples 📝
@@ -110,10 +124,7 @@ Stratos source code is proprietary but you can find code samples of the app here
 - [Swift Code Samples](/Code/Swift/)
 - [Python Code Samples](/Code/Python/)
 - [TypeScript Code Samples](/Code/TypeScript/)
-
-## V - Contributing 🤝
-
-We welcome contributions to the Stratos project. Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+  
 
 ## VI - Contact 📬
 For more information on this project, please reach out at [contact@stratos-fly.com](mailto:contact@stratos-fly.com).
