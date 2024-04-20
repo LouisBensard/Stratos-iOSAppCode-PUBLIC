@@ -124,4 +124,4 @@ Stratos source code is not open source, but if interested in my work please reac
 ## VI - Contact 📬
 For more information on this product, please reach out at [contact@stratos-fly.com](mailto:contact@stratos-fly.com).
 
-Project Link: [https://github.com/LouisBensard/Stratos-iOSAppCode-Swift-PUBLIC.git](https://github.com/LouisBensard/Stratos-iOSAppCode-Swift-PUBLIC.git)
+Project Link: [https://github.com/LouisBensard/Stratos-iOSAppCode-PUBLIC.git](https://github.com/LouisBensard/Stratos-iOSAppCode-PUBLIC.git)
