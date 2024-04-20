@@ -1,6 +1,6 @@
 # Stratos: The Future of General Aviation 🚀
 
-Welcome to the official GitHub repository for Stratos, an innovative iOS app designed for general aviation enthusiasts. This repository is a resource hub showcasing our development practices, sample code, and the frameworks we use. Dive into our demos and explore the architecture and technology behind Stratos.
+Welcome to the official public GitHub repository for Stratos, an innovative iOS app designed for general aviation enthusiasts. This repository is a resource hub showcasing our development practices, sample code, and the frameworks we use. Dive into our demos and explore the architecture and technology behind Stratos.
 
 Stratos is now available on the App Store on iPhone and iPad! Click [here](https://apple.co/3U8506K) to download it.
 
