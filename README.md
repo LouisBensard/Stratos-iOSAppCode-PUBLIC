@@ -4,6 +4,8 @@ Welcome to the official GitHub repository for Stratos, an innovative iOS app des
 
 Stratos is now available on the App Store on iPhone and iPad! Click [here](https://apple.co/3U8506K) to download it.
 
+![Demo](/screenshots/gif1.gif)
+
 ## Table of Contents 📚
 - [I - Introduction](#i---introduction-)
 - [II - Tech Stack](#ii---tech-stack-)
