@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub repository for Stratos, an innovative iOS app designed for general aviation enthusiasts. This repository is a resource hub showcasing our development practices, sample code, and the frameworks we use. Dive into our demos and explore the architecture and technology behind Stratos.
 
+Stratos is now available on the App Store on iPhone and iPad! Click [here](https://apple.co/3U8506K) to download it.
+
 ## Table of Contents 📚
 - [I - Introduction](#i---introduction-)
 - [II - Tech Stack](#ii---tech-stack-)
@@ -88,7 +90,6 @@ Stratos combines modern software engineering practices and cutting-edge technolo
 
 ### iii - Performance Analysis 📊 
 
-[<img src="/screenshots/6.png" alt="Performance" width="20%">](#)
 [<img src="/screenshots/11.png" alt="Performance" width="20%">](#)
 [<img src="/screenshots/12.png" alt="Performance" width="20%">](#)
 [<img src="/screenshots/13.png" alt="Performance" width="20%">](#)
@@ -103,9 +104,11 @@ Stratos combines modern software engineering practices and cutting-edge technolo
 
 
 ### iv - Social Community Platform for Aviators 🌐
+[<img src="/screenshots/6.png" alt="Performance" width="20%">](#)
 [<img src="/screenshots/5.png" alt="Social" width="20%">](#)
 [<img src="/screenshots/9.png" alt="Social" width="20%">](#)
 
+- **Flight Sharing**: Share your logged flights with your friends and the aviation community on a public feed (if you chosse to), showcasing your aviation journey and experiences.
 - **Global Connections**: Make connections with pilots and aviation enthusiasts worldwide.
 - **Local Meetups**: Discover and connect with pilots in your area to enhance your local aviation community.
 - **Secure Communication**: Enjoy secure, private communications with end-to-end encrypted chat.
