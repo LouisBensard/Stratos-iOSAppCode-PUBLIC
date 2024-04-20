@@ -126,6 +126,6 @@ Stratos source code is proprietary but you can find code samples of the app here
   
 
 ## VI - Contact 📬
-For more information on this project, please reach out at [contact@stratos-fly.com](mailto:contact@stratos-fly.com).
+For more information on this product, please reach out at [contact@stratos-fly.com](mailto:contact@stratos-fly.com).
 
 Project Link: [https://github.com/LouisBensard/Stratos-iOSAppCode-Swift-PUBLIC.git](https://github.com/LouisBensard/Stratos-iOSAppCode-Swift-PUBLIC.git)
