@@ -6,6 +6,7 @@ Stratos is now available on the App Store on iPhone and iPad! Click [here](https
 
 ![Demo1](/screenshots/gif1.gif)
 ![Demo2](/screenshots/gif2.gif)
+![Demo3](/screenshots/gif3.gif)
 
 ## Table of Contents 📚
 - [I - Introduction](#i---introduction-)
