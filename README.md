@@ -119,11 +119,7 @@ Stratos combines modern software engineering practices and cutting-edge technolo
 
 ## IV - Code Samples 📝
 
-Stratos source code is proprietary but you can find code samples of the app here: 
-- [Swift Code Samples](/Code/Swift/)
-- [Python Code Samples](/Code/Python/)
-- [TypeScript Code Samples](/Code/TypeScript/)
-  
+Stratos source code is not open source, but if interested in my work please reach out and I'll be happy to share some of the Swift, Python or TypeScript code with you.
 
 ## VI - Contact 📬
 For more information on this product, please reach out at [contact@stratos-fly.com](mailto:contact@stratos-fly.com).
