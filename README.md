@@ -66,57 +66,49 @@ Stratos combines modern software engineering practices and cutting-edge technolo
 
 ## III - Features 🛠️
 ### i - Explore Airports and Nearby Activities 🌍
-- **Intelligent Map**: Explore airports globally with our advanced map feature, designed to help you plan your next adventure efficiently.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Airport Filters**: Find airports by amenities like Restaurants, Museums, Parks, and Beaches, making it easier to plan your visits.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Favorites and History Visualization**: Visualize your frequented and favorite airports, sparking ideas for your next flights.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
 
-### ii - Flight Tracking and Performance Analysis ✈️
-- **Precision Flight Logging**: Utilize your plane’s transponder data to log flights with unmatched accuracy.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Post-Flight Track Finder**: Focus on your flight experience without hassle; log your flights post-flight.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Flight Debriefs and Journals**: Turn every flight into a learning opportunity with detailed debriefs and journals.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Performance Analytics**: Monitor your flying improvement over time with our advanced analytics tools.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Historical Flight Logs**: Access comprehensive views of your flying history since 2011.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
+[<img src="/screenshots/1.png" alt="Map" width="20%">](#)
+[<img src="/screenshots/2.png" alt="Map" width="20%">](#)
+[<img src="/screenshots/10.png" alt="Map" width="20%">](#)
+
+- **Intelligent Map**: Explore airports in detail globally with our advanced map feature, designed to help you plan your next adventure efficiently.
+- **Advanced Filters**: Filter the airports you want to land at.
+- **Nearby Activity Filters**: Find airports by amenities like Restaurants, Museums, Parks, and Beaches, making it easier to plan your visits.  
+- **Cross Country Generator**: Select the distance radius to display airports within your desired flying range, ideal for exploring new destinations.
+- **Community Comments**: Add and read comments on airports to share experiences and tips with the global aviation community, enhancing collaborative knowledge and support.
+- **Favorites and Visited Airports**: Visualize your frequented and favorite airports, sparking ideas for your next flights.
+
+### ii - Flight Tracking ✈️
+
+[<img src="/screenshots/3.png" alt="Flight" width="20%">](#)
+[<img src="/screenshots/4.png" alt="Flight" width="20%">](#)
+- **Precision Flight Logging**: Focus on flying the plane and log flight tracks after you've landed using our automated flight track finder technology.
+- **Pilot Debriefs and Journals**: Turn every flight into a learning opportunity with detailed pilot debriefs and journals.
+- **Historical Flight Logs**: Log old flights tracks dating from 2011 onwards.
 
 ### iii - Performance Analysis 📊 
-- **Precision Flight Logging**: Utilize your plane’s transponder data to log flights with unmatched accuracy.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Post-Flight Track Finder**: Focus on your flight experience without hassle; log your flights post-flight.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Flight Debriefs and Journals**: Turn every flight into a learning opportunity with detailed debriefs and journals.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
+
+[<img src="/screenshots/6.png" alt="Performance" width="20%">](#)
+[<img src="/screenshots/11.png" alt="Performance" width="20%">](#)
+[<img src="/screenshots/12.png" alt="Performance" width="20%">](#)
+[<img src="/screenshots/13.png" alt="Performance" width="20%">](#)
+[<img src="/screenshots/14.png" alt="Performance" width="20%">](#)
+
+- **Pilots Statistics**: Easily access key pilot statistics directly from your profile, and view the same stats on other pilots' to compare performances and learn from peers. 
 - **Performance Analytics**: Monitor your flying improvement over time with our advanced analytics tools.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Historical Flight Logs**: Access comprehensive views of your flying history since 2011.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
+- **Hours and Distance Chart**: Track the total nautical miles flown and distances covered in different time frames, providing a comprehensive view of your flying activities over periods.
+- **Pilot Score Analytics**: Detailed analytics breaking down your pilot performance scores, helping you identify strengths and areas for improvement based on a variety of flight parameters.
+- **Aircraft Analytics**: Analyze specific metrics related to each aircraft you fly, including usage frequency, performance efficiency, and maintenance needs.
+- **Airport Analytics**: View statistics on the airports you’ve visited, categorized by type and frequency, to understand your travel patterns and favorite destinations.
+
 
 ### iv - Social Community Platform for Aviators 🌐
-- **Global Connections**: Make connections with pilots and aviation enthusiasts worldwide.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Local Meetups**: Discover and connect with pilots in your area to enhance your local aviation community.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
-  
-- **Secure Communication**: Enjoy secure, private communications with end-to-end encrypted chat.
-  - [<img src="/screenshots/XXXX" alt="ML" width="40%">](#)
+[<img src="/screenshots/5.png" alt="Social" width="20%">](#)
+[<img src="/screenshots/9.png" alt="Social" width="20%">](#)
 
+- **Global Connections**: Make connections with pilots and aviation enthusiasts worldwide.
+- **Local Meetups**: Discover and connect with pilots in your area to enhance your local aviation community.
+- **Secure Communication**: Enjoy secure, private communications with end-to-end encrypted chat.
 
 ## IV - Code Samples 📝
 
